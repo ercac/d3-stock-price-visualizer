@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/d3-stock-price-visualizer/static/css/main.ddbdb85a.css",
+    "main.js": "/d3-stock-price-visualizer/static/js/main.b916e94e.js",
+    "static/js/453.e79745b6.chunk.js": "/d3-stock-price-visualizer/static/js/453.e79745b6.chunk.js",
+    "index.html": "/d3-stock-price-visualizer/index.html",
+    "main.ddbdb85a.css.map": "/d3-stock-price-visualizer/static/css/main.ddbdb85a.css.map",
+    "main.b916e94e.js.map": "/d3-stock-price-visualizer/static/js/main.b916e94e.js.map",
+    "453.e79745b6.chunk.js.map": "/d3-stock-price-visualizer/static/js/453.e79745b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddbdb85a.css",
+    "static/js/main.b916e94e.js"
+  ]
+}
